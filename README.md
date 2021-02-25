@@ -18,6 +18,10 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
 
+## Known issues
+* Due to the limitations of the software & hardware we use, the application might freeze sometimes. Wait for it to load first, and if it freezes for over 10s, click run again from Xcode.
+* The developer hasn't been able to use the estimated depth data of the hand, so they put the lightsaber object at a fixed distance in front of the camera as a temporary solution. This feature might be added later.
+
 ## Learn more
 Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity, AR Foundation, and echoAR.
 
@@ -25,3 +29,4 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
+![alt text](./Screenshots/screenshot.PNG)

@@ -13,7 +13,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 * Add the models from the models folder to the echoAR console
 * For each model, add the corresponding metadata from the metadata folder on the echoAR console
 * Overwrite the existing echoAR/CustomBehaviour.cs script with the new _CustomBehaviour.cs_ file
-* Set up a ManoMotion account and follow instructions on their website
+* Set up a [ManoMotion](https://www.manomotion.com) account and follow instructions on their website
 
 ## Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
